@@ -1,3 +1,8 @@
+---
+title: Chroniques d'un voyage vers l'est
+layout: post
+---
+
 Dans les années 60, l’un des objectifs des chercheurs en informatique du Palo Alto Research Center de Xerox était de trouver un paradigme de programmation permettant :
 
 * de pouvoir réutiliser le code plus facilement
