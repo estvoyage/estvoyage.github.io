@@ -32,6 +32,6 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 owner:
   name: Frédéric Hardy
   avatar: mageekguy.png
-  email: #frederic.hardy@mageekbox.net
-  twitter: #mageekguy
-  github: #mageekguy
+  email: frederic.hardy@mageekbox.net
+  twitter: @mageekguy
+  github: @mageekguy
